@@ -1,0 +1,42 @@
+[
+	{
+		"catagoryId" : "0",
+		"catagoryName" : "General"
+	},
+	{
+		"catagoryId" : "1",
+		"catagoryName" : "Hiking"
+	},
+	{
+		"catagoryId" : "2",
+		"catagoryName" : "Restaurant"
+	},
+	{
+		"catagoryId" : "3",
+		"catagoryName" : "Hotel"
+	},
+	{
+		"catagoryId" : "4",
+		"catagoryName" : "Ski"
+	},
+	{
+		"catagoryId" : "5",
+		"catagoryName" : "Car Rental"
+	},
+	{
+		"catagoryId" : "6",
+		"catagoryName" : "Mall"
+	},
+	{
+		"catagoryId" : "7",
+		"catagoryName" : "Religion"
+	},
+	{
+		"catagoryId" : "8",
+		"catagoryName" : "Culture"
+	}
+	{
+		"catagoryId" : "9",
+		"catagoryName" : "Bar"
+	}
+]

@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html xmlns:ng="http://angularjs.org" data-ng-app="tripDox">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" />
+    <title>TripDox</title>
+
+    <!-- Bootstrap -->
+    <link href="resources/css/bootstrap.min.css" rel="stylesheet">
+    <!-- TripDox -->
+    <link href="resources/css/style.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="lib/bootstrap/html5shiv.min.js"></script>
+    <script src="lib/bootstrap/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+<nav class="navbar navbar-inverse navbar-fixed-top mainHeader">
+    <div class="navWrapper">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#">
+                <img id="logo" class="logo" src="resources/images/logo.png">
+            </a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="#">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </div><!--/.nav-collapse -->
+    </div>
+</nav>
+<div class="mainWrapper">
+    <div id="carousel-generic" class="carousel slide headerImage" data-ride="carousel">
+        <div class="carousel-caption container"> </div>
+    </div>
+    <div class="SiteSelectionPage page">
+  
+		<div data-ng-controller="sitesController as sitesCtr" align = "center">
+			<div>
+				<label for="countrySelection">Country:</label>
+				<select id="countrySelection" class="colorBlack" data-ng-model="sitesCtr.currCountry" data-ng-options="c.countryId + ' - ' + c.name for c in sitesCtr.countries | orderBy : 'name'">
+				</select>
+			</div>
+		
+			<div>
+				<label for="siteSelection">City:</label>
+				<select id="siteSelection" class="colorBlack" data-ng-model="sitesCtr.currCity" data-ng-options="c.cityName for c in sitesCtr.currCountry.cities | orderBy : 'cityName'">
+				</select><br>
+			<div>
+			<div>
+				<label for="countrySelection">Site:</label>
+				<select id="countrySelection" class="colorBlack" data-ng-model="sitesCtr.currSite" data-ng-options="s.siteName for s in sitesCtr.currCity.sites | orderBy : 'name'">
+				</select>
+			</div>
+			You Have Selected the Site: {{sitesCtr.currSite.siteName}} in {{sitesCtr.currCity.cityName}}, {{sitesCtr.currCountry.name}}<br><br>
+
+        </div>
+		<br>
+        <button class="btn btn-success">Search</button>
+    </div>
+    <!--<div class="loginPage">
+        <h1>Welcome to TripDox</h1>
+        <p class="lead">Optimize your trip enjoyment, Search for the best Restaurants, Malls, Hikes,Car Rental and much more!</p>
+    </div>-->
+</div>
+
+
+<!-- Bootstrap core JavaScript & Angular
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="lib/jquery/jquery.min.js"></script>
+<script src="lib/bootstrap/bootstrap.min.js"></script>
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+<script src="lib/bootstrap/ie10-viewport-bug-workaround.js"></script>
+
+<script src="lib/angular/angular.min.js"></script>
+<script src="resources/js/tripdox.js"></script>
+</body>
+</html>

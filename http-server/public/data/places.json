@@ -1,0 +1,423 @@
+[
+	{
+		"placeId" : 0,
+		"siteId" : 6,
+		"catagoryId" : [1],
+		"name" : "Mount Royal Park",
+		"desc" : "Mount Royal is a hill in the city of Montreal, immediately west of downtown Montreal, Quebec, Canada, the city to which it gave its name.",
+		"address" : "1260 Remembrance Road, Montréal, QC H3H 1A2, Canada",
+		"PhoneNumber" : "+1 514-843-8240",
+		"openHours" : [
+			{
+				"day" : "Monday",
+				"hours" : "6:00 am – 12:00 am"
+			},
+			{
+				"day" : "Tuesday",
+				"hours" : "6:00 am – 12:00 am"
+			},
+			{
+				"day" : "Wednesday",
+				"hours" : "6:00 am – 12:00 am"
+			},
+			{
+				"day" : "Thursday",
+				"hours" : "6:00 am – 12:00 am"
+			},
+			{
+				"day" : "Friday",
+				"hours" : "6:00 am – 12:00 am"
+			},
+			{
+				"day" : "Saturday",
+				"hours" : "6:00 am – 12:00 am"
+			},
+			{
+				"day" : "Sunday",
+				"hours" : "6:00 am – 12:00 am"
+			}
+		],
+		"siteURL" : "http://www.montreal.com/parks/mtroyal.html",
+		"tripAdvisorURL" : "",
+		"wikiURL" : "http://en.wikipedia.org/wiki/Mount_Royal"
+	},
+	{
+		"placeId" : 1,
+		"siteId" : 6,
+		"catagoryId" : [0],
+		"name" : "Old Port of Montreal",
+		"desc" : "The Old Port of Montreal is the historic port of Montreal, Quebec, Canada. Located in Old Montreal, it stretches for over two kilometres along the St-Lawrence River in Old Montreal.",
+		"address" : "333 Rue de la Commune Ouest, Montréal, QC H2Y 2E2, Canada",
+		"PhoneNumber" : "+1 514-496-7678",
+		"openHours" : [
+			{
+				"day" : "Monday",
+				"hours" : ""
+			},
+			{
+				"day" : "Tuesday",
+				"hours" : ""
+			},
+			{
+				"day" : "Wednesday",
+				"hours" : ""
+			},
+			{
+				"day" : "Thursday",
+				"hours" : ""
+			},
+			{
+				"day" : "Friday",
+				"hours" : ""
+			},
+			{
+				"day" : "Saturday",
+				"hours" : ""
+			},
+			{
+				"day" : "Sunday",
+				"hours" : ""
+			}
+		],
+		"siteURL" : "http://www.oldportofmontreal.com/",
+		"tripAdvisorURL" : "",
+		"wikiURL" : "http://en.wikipedia.org/wiki/Old_Port_of_Montreal"
+	},
+	{
+		"placeId" : 2,
+		"siteId" : 6,
+		"catagoryId" : [8],
+		"name" : "Biosphere Environmental Museum",
+		"desc" : "The Biosphere is a museum in Montreal dedicated to the environment. It is located at Parc Jean-Drapeau, on Saint Helen's Island in the former pavilion of the United States for the 1967 World Fair Expo 67",
+		"address" : "160 Chemin Tour-de-l'Isle,Île Sainte-Hélène, Parc Jean-Drapeau,Montreal,QC,H3C 4G8, H3C 4G8, Canada",
+		"PhoneNumber" : "+1 514-283-5000",
+		"openHours" : [
+			{
+				"day" : "Monday",
+				"hours" : "Closed"
+			},
+			{
+				"day" : "Tuesday",
+				"hours" : "10:00 am – 5:00 pm"
+			},
+			{
+				"day" : "Wednesday",
+				"hours" : "10:00 am – 5:00 pm"
+			},
+			{
+				"day" : "Thursday",
+				"hours" : "10:00 am – 5:00 pm"
+			},
+			{
+				"day" : "Friday",
+				"hours" : "10:00 am – 5:00 pm"
+			},
+			{
+				"day" : "Saturday",
+				"hours" : "10:00 am – 5:00 pm"
+			},
+			{
+				"day" : "Sunday",
+				"hours" : "10:00 am – 5:00 pm"
+			}
+		],
+		"siteURL" : "",
+		"tripAdvisorURL" : "",
+		"wikiURL" : "http://en.wikipedia.org/wiki/Montreal_Biosph%C3%A8re"
+	},
+	{
+		"placeId" : 3,
+		"siteId" : 6,
+		"catagoryId" : [8],
+		"name" : "Montreal Museum of Fine Arts",
+		"desc" : "The Montreal Museum of Fine Arts is an art museum in Montreal, Quebec, Canada. It is Montreal's largest museum and is amongst the most prominent in Canada. The museum is located on the historic Golden Square Mile stretch of Sherbrooke Street.",
+		"address" : "1380 Rue Sherbrooke Ouest, Montréal, QC H3G 1J5, Canada",
+		"PhoneNumber" : "+1 514-285-2000",
+		"openHours" : [
+			{
+				"day" : "Monday",
+				"hours" : "Closed"
+			},
+			{
+				"day" : "Tuesday",
+				"hours" : "11:00 am – 5:00 pm"
+			},
+			{
+				"day" : "Wednesday",
+				"hours" : "11:00 am – 9:00 pm"
+			},
+			{
+				"day" : "Thursday",
+				"hours" : "11:00 am – 5:00 pm"
+			},
+			{
+				"day" : "Friday",
+				"hours" : "11:00 am – 5:00 pm"
+			},
+			{
+				"day" : "Saturday",
+				"hours" : "11:00 am – 5:00 pm"
+			},
+			{
+				"day" : "Sunday",
+				"hours" : "11:00 am – 5:00 pm"
+			}
+		],
+		"siteURL" : "https://www.mbam.qc.ca/en/",
+		"tripAdvisorURL" : "",
+		"wikiURL" : "http://en.wikipedia.org/wiki/Montreal_Museum_of_Fine_Arts"
+	},
+	{
+		"placeId" : 4,
+		"siteId" : 0,
+		"catagoryId" : [0],
+		"name" : "Skydeck Chicago",
+		"desc" : "No trip to Chicago is complete without a visit to the The Ledge at Skydeck Chicago! Enjoy 360-degree views spanning up to 50 miles and 4 states and our most spectacular view - 1,353 feet straight down! 'Dare to Stand Out' on The Ledge - glass balconies extending 4.3 Feet outside the building provide a thrilling, once in a lifetime experience.",
+		"address" : "Willis Tower, 233 South Wacker Drive, Chicago, IL 60606, United States",
+		"PhoneNumber" : "+1 877-759-3325",
+		"openHours" : [
+			{
+				"day" : "Monday",
+				"hours" : "10:00 am – 8:00 pm"
+			},
+			{
+				"day" : "Tuesday",
+				"hours" : "10:00 am – 8:00 pm"
+			},
+			{
+				"day" : "Wednesday",
+				"hours" : "10:00 am – 8:00 pm"
+			},
+			{
+				"day" : "Thursday",
+				"hours" : "10:00 am – 8:00 pm"
+			},
+			{
+				"day" : "Friday",
+				"hours" : "10:00 am – 8:00 pm"
+			},
+			{
+				"day" : "Saturday",
+				"hours" : "10:00 am – 8:00 pm"
+			},
+			{
+				"day" : "Sunday",
+				"hours" : "10:00 am – 8:00 pm"
+			}
+		],
+		"siteURL" : "http://theskydeck.com",
+		"tripAdvisorURL" : "",
+		"wikiURL" : "http://en.wikipedia.org/wiki/Willis_Tower"
+	},
+	{
+		"placeId" : 5,
+		"siteId" : 6,
+		"catagoryId" : [8],
+		"name" : "Shedd Aquarium",
+		"desc" : "From whales to snails, tarantulas to turtles, angelfish to zebra sharks, meet 32,000 animals from aquatic habitats around the world. Sharks cruise overhead, stingrays swim below your feet, and belugas smile at eye level. Penguins fly through chilly waters, dolphins leap into the air, and sea jellies pulse to the ocean’s rhythm. Shedd Aquarium is the 'must-sea' destination in Chicago!",
+		"address" : "1200 South Lake Shore Drive, Chicago, IL 60605, United States",
+		"PhoneNumber" : "+1 312-939-2438",
+		"openHours" : [
+			{
+				"day" : "Monday",
+				"hours" : "9:00 am – 5:00 pm"
+			},
+			{
+				"day" : "Tuesday",
+				"hours" : "9:00 am – 5:00 pm"
+			},
+			{
+				"day" : "Wednesday",
+				"hours" : "9:00 am – 5:00 pm"
+			},
+			{
+				"day" : "Thursday",
+				"hours" : "9:00 am – 5:00 pm"
+			},
+			{
+				"day" : "Friday",
+				"hours" : "9:00 am – 5:00 pm"
+			},
+			{
+				"day" : "Saturday",
+				"hours" : "9:00 am – 6:00 pm"
+			},
+			{
+				"day" : "Sunday",
+				"hours" : "9:00 am – 6:00 pm"
+			}
+		],
+		"siteURL" : "http://www.sheddaquarium.org/",
+		"tripAdvisorURL" : "",
+		"wikiURL" : "http://en.wikipedia.org/wiki/Shedd_Aquarium"
+	},
+	{
+		"placeId" : 7,
+		"siteId" : 0,
+		"catagoryId" : [8],
+		"name" : "Field Museum of Natural History",
+		"desc" : "The Field Museum of Natural History, located in Chicago, Illinois, USA, is one of the largest natural history museums in the world.",
+		"address" : "1400 South Lake Shore Drive, Chicago, IL 60605, United States",
+		"PhoneNumber" : "+1 312-922-9410",
+		"openHours" : [
+			{
+				"day" : "Monday",
+				"hours" : "9:00 am – 5:00 pm"
+			},
+			{
+				"day" : "Tuesday",
+				"hours" : "9:00 am – 5:00 pm"
+			},
+			{
+				"day" : "Wednesday",
+				"hours" : "9:00 am – 5:00 pm"
+			},
+			{
+				"day" : "Thursday",
+				"hours" : "9:00 am – 5:00 pm"
+			},
+			{
+				"day" : "Friday",
+				"hours" : "9:00 am – 5:00 pm"
+			},
+			{
+				"day" : "Saturday",
+				"hours" : "9:00 am – 5:00 pm"
+			},
+			{
+				"day" : "Sunday",
+				"hours" : "9:00 am – 5:00 pm"
+			}
+		],
+		"siteURL" : "http://www.fieldmuseum.org/",
+		"tripAdvisorURL" : "",
+		"wikiURL" : "http://en.wikipedia.org/wiki/Field_Museum_of_Natural_History"
+	},
+	{
+		"placeId" : 8,
+		"siteId" : 0,
+		"catagoryId" : [1],
+		"name" : "Starved Rock State Park",
+		"desc" : "Starved Rock State Park is a state park in the U.S. state of Illinois, characterized by the many canyons within its 2,630 acres.",
+		"address" : "2668 East 875th Road, Oglesby, IL 61348, United States",
+		"PhoneNumber" : "+1 815-667-4726",
+		"openHours" : [
+			{
+				"day" : "Monday",
+				"hours" : "9:00 am – 4:00 pm"
+			},
+			{
+				"day" : "Tuesday",
+				"hours" : "9:00 am – 4:00 pm"
+			},
+			{
+				"day" : "Wednesday",
+				"hours" : "9:00 am – 4:00 pm"
+			},
+			{
+				"day" : "Thursday",
+				"hours" : "9:00 am – 4:00 pm"
+			},
+			{
+				"day" : "Friday",
+				"hours" : "9:00 am – 4:00 pm"
+			},
+			{
+				"day" : "Saturday",
+				"hours" : "9:00 am – 4:00 pm"
+			},
+			{
+				"day" : "Sunday",
+				"hours" : "9:00 am – 4:00 pm"
+			}
+		],
+		"siteURL" : "http://www.starvedrockstatepark.org/",
+		"tripAdvisorURL" : "",
+		"wikiURL" : "http://en.wikipedia.org/wiki/Starved_Rock_State_Park"
+	},
+	{
+		"placeId" : 9,
+		"siteId" : 0,
+		"catagoryId" : [1],
+		"name" : "Geneva Lake Shore Path",
+		"desc" : "This lovely 21-mile walking path, around Geneva Lake, takes pedestrians by impressive homes and quiet lakeside neighborhoods. A two-mile swath on the West End offers a manageable stroll, lovely views, and passes landmarks such as the Abbey Resort and Fontana Spa and popular local eateries like Chuck's.",
+		"address" : "Lake Geneva, WI",
+		"PhoneNumber" : "+1 262 275 5700",
+		"openHours" : [
+			{
+				"day" : "Monday",
+				"hours" : ""
+			},
+			{
+				"day" : "Tuesday",
+				"hours" : ""
+			},
+			{
+				"day" : "Wednesday",
+				"hours" : ""
+			},
+			{
+				"day" : "Thursday",
+				"hours" : ""
+			},
+			{
+				"day" : "Friday",
+				"hours" : ""
+			},
+			{
+				"day" : "Saturday",
+				"hours" : ""
+			},
+			{
+				"day" : "Sunday",
+				"hours" : ""
+			}
+		],
+		"siteURL" : "http://www.lakegenevawi.com/Default.aspx",
+		"tripAdvisorURL" : "http://www.tripadvisor.com/Travel-g60022-d283906/Lake-Geneva:Wisconsin:Geneva.Lake.Shore.Path.html",
+		"wikiURL" : ""
+	},
+	{
+		"placeId" : 10,
+		"siteId" : 6,
+		"catagoryId" : [0,
+			1],
+		"name" : "",
+		"desc" : "",
+		"address" : "",
+		"PhoneNumber" : "",
+		"openHours" : [
+			{
+				"day" : "Monday",
+				"hours" : ""
+			},
+			{
+				"day" : "Tuesday",
+				"hours" : ""
+			},
+			{
+				"day" : "Wednesday",
+				"hours" : ""
+			},
+			{
+				"day" : "Thursday",
+				"hours" : ""
+			},
+			{
+				"day" : "Friday",
+				"hours" : ""
+			},
+			{
+				"day" : "Saturday",
+				"hours" : ""
+			},
+			{
+				"day" : "Sunday",
+				"hours" : ""
+			}
+		],
+		"siteURL" : "",
+		"tripAdvisorURL" : "",
+		"wikiURL" : ""
+	}
+]

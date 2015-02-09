@@ -1,0 +1,44 @@
+[
+    {
+        "siteId": 0,
+        "country": "USA",
+        "city": "Chicago",
+        "timeZone": "UTC−06:00"
+    },
+    {
+        "siteId": 1,
+        "country": "USA",
+        "city": "New York",
+        "timeZone": "UTC−05:00"
+    },
+    {
+        "siteId": 2,
+        "country": "USA",
+        "city": "Dalas",
+        "timeZone": "UTC−06:00"
+    },
+    {
+        "siteId": 3,
+        "country": "USA",
+        "city": "Atlanta",
+        "timeZone": "UTC−05:00"
+    },
+    {
+        "siteId": 4,
+        "country": "USA",
+        "city": "Seattle",
+        "timeZone": "UTC−08:00"
+    },
+    {
+        "siteId": 5,
+        "country": "Canada",
+        "city": "Toronto",
+        "timeZone": "UTC−05:00"
+    },
+    {
+        "siteId": 6,
+        "country": "Canada",
+        "city": "Montreal",
+        "timeZone": "UTC−05:00"
+    }
+]
